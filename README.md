@@ -69,3 +69,15 @@
 ***
 
 * To know Brief about `read_json()` refer the program.
+
+### Seventh Program: [Head/ Tail documents](data_analysis.py)
+
+***
+
+* To display first and last documents using `head()` and `tail()`.
+
+### Eighth Program: [Data cleaning/ Data Replacing](data_cleaning.py)
+***
+* To clean the null or not present data we use `dropna()` and `dropna(inplace=True)`.
+* To replace the null or not present data we use `fillna(<replace_term>)` and `fillna(<replace_term>,inplace=True)`.
+* We can also seperate fill values for each columns seperately.

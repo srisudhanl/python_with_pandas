@@ -100,3 +100,11 @@
 * We can format the date that present in column using to_datetime() and we need to give the format.
 * We can add 'errors' attribute if there is no value in certain row given column.
 * We can also iterate throughout the data file using for loop.
+
+### Eleventh Program: [Remove Duplicates](remove_duplicate_data.py)
+
+***
+
+* We can find whether the row is duplicate or not by using `duplicated()`.
+* It returns true if it is duplicated, and returns false it is not duplicated.
+* We can drop the duplicate rows from the dataframe using `drop_duplicates()`.

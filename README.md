@@ -34,3 +34,13 @@
 * Prints the Dataframe with `custom_indexes`.
 * Prints the certain data using custom index.
 * Prints more than one data from the dataframe using custom_indexes.
+
+### Fourth Program: [Read Data From CSV/JSON](reading_data_from_csv_json.py)
+***
+* Reads the data from csv file using `.read_csv()`.
+* Prints the read_data in dataframe object.
+* Prints the read_data in string object.
+* Reads the data from JSON file using `.read_json()`.
+* Prints the read_data in dataframe object.
+* Prints the read_data in string object.
+* We can also verify the type using `type()`.

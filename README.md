@@ -1,6 +1,6 @@
 # PYTHON WITH PANDAS
 ***
-## PRELIMS:
+## Prelims:
 ***
 > Install PYTHON latest version on your system.
 >
@@ -25,3 +25,12 @@
 * So, we can also give `custom labels value` for the series.
 * We can convert the `JSON` data as series or interpretable structure using `Series()`.
 * When we request for the value of the key in the series, if that is not present within the series, it returns `NaN` value.
+
+### Third Program: [Data Frame](data_frame.py)
+***
+* Prints the DataFrame using `DataFrame()`.
+* Prints the certain data from the DataFrame using `loc[<index_value>]` method.
+* Prints more than one data from the DataFrame using `loc[<list_of_index_values>]` method.
+* Prints the Dataframe with `custom_indexes`.
+* Prints the certain data using custom index.
+* Prints more than one data from the dataframe using custom_indexes.

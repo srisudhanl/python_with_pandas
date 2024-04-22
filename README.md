@@ -115,3 +115,11 @@
 
 * We can save the dataframe to csv by using `to_csv(<fileName>)`.
 * We can save the dataframe to json by using `to_json(<filename>)`.
+
+### Thirteenth Program: [Data Correlation](data_correlation.py)
+
+***
+
+* It is used to find the correlation between the data present in each column.
+* Data Correlation is measured in the scale of `-1 to 1`.
+* Data is said to be good data if the data correlation is between `0.5 to 0.9`.

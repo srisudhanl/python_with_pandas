@@ -108,3 +108,10 @@
 * We can find whether the row is duplicate or not by using `duplicated()`.
 * It returns true if it is duplicated, and returns false it is not duplicated.
 * We can drop the duplicate rows from the dataframe using `drop_duplicates()`.
+
+### Twelveth Program: [Write data to CSV/JSON](save_cleaned_files.py)
+
+***
+
+* We can save the dataframe to csv by using `to_csv(<fileName>)`.
+* We can save the dataframe to json by using `to_json(<filename>)`.

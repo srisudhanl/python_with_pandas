@@ -10,14 +10,14 @@
 >
 > Tutorial Link: https://youtu.be/ZVjQFjOI49c?si=kk8Je--TbzHocsVx
 
-### First Program: INTRO
+### First Program: [intro](intro.py)
 ***
 * Prints the directories in `pandas` library.
 * Prints the dictionary as `dataframe` in `pandas`.
 * Prints the type of variable that consist of `dataFrame` object.
 * Prints the `version of pandas`.
 
-### Second Program: Data_Series
+### Second Program: [Data_Series](data_series.py)
 ***
 * Prints the series of data using `Series()`.
 * Prints the certain value in series using index which is called as `label` in pandas.

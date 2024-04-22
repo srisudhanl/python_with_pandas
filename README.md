@@ -62,4 +62,10 @@
 
 ***
 
-* To know Breif about `read_csv()` refer the program.
+* To know Brief about `read_csv()` refer the program.
+
+### Sixth Program: [Brief About read_json()](breif_read_json.py)
+
+***
+
+* To know Brief about `read_json()` refer the program.

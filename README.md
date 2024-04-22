@@ -77,7 +77,18 @@
 * To display first and last documents using `head()` and `tail()`.
 
 ### Eighth Program: [Data cleaning/ Data Replacing](data_cleaning.py)
+
 ***
+
 * To clean the null or not present data we use `dropna()` and `dropna(inplace=True)`.
 * To replace the null or not present data we use `fillna(<replace_term>)` and `fillna(<replace_term>,inplace=True)`.
 * We can also seperate fill values for each columns seperately.
+
+### Nineth Program: [Mean / Median / Mode](mean_median_mode.py)
+
+***
+
+* We can get the mean value of all numerical column or certain numerical column using `mean()`.
+* We can get the median value of all numerical column or certain numerical column using `median()`.
+* We can get the mode value of all numerical column or certain numerical column using `mode()`.
+* `mode()` returns the array as output which consist of mode of each column given for computation.

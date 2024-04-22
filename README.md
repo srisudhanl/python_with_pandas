@@ -123,3 +123,9 @@
 * It is used to find the correlation between the data present in each column.
 * Data Correlation is measured in the scale of `-1 to 1`.
 * Data is said to be good data if the data correlation is between `0.5 to 0.9`.
+
+### Fourteenth Program: [Displaying Data as Graph](view_cleaned_data_in_graph.py)
+***
+* We use matplotlib package to generate plot and display the plot.
+* We use `.plot()` to generate the plot from data frame.
+* We use `matplotlib.pyplot.show()` to display all the generated graphs.

@@ -92,3 +92,11 @@
 * We can get the median value of all numerical column or certain numerical column using `median()`.
 * We can get the mode value of all numerical column or certain numerical column using `mode()`.
 * `mode()` returns the array as output which consist of mode of each column given for computation.
+
+### Tenth Program: [Data Reformatting](data_reformatting.py)
+
+***
+
+* We can format the date that present in column using to_datetime() and we need to give the format.
+* We can add 'errors' attribute if there is no value in certain row given column.
+* We can also iterate throughout the data file using for loop.
